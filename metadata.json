@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian 101 สำหรับ Back Office: หลักสูตร 5 สัปดาห์",
+  "description": "คู่มือการเรียนและสื่อการสอน Obsidian สำหรับพนักงานออฟฟิศ Non-IT พร้อมสไลด์นำเสนอ โน้ตผู้สอน แผ่นพับคู่มือสรุป และห้องทดลอง Markdown",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
